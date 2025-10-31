@@ -105,7 +105,7 @@ export function Hero() {
                 data-testid="link-linkedin"
               >
                 <a
-                  href="https://linkedin.com/in/nawfal-sassat"
+                  href="https://www.linkedin.com/in/nawfal-sassat-91b70217b/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="gap-2"

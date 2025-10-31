@@ -75,7 +75,7 @@ Showcase professional experience, technical skills, and projects with a clean, r
 
 ## Contact Information
 - **Email**: stevemaster478@gmail.com
-- **LinkedIn**: linkedin.com/in/nawfal-sassat
+- **LinkedIn**: linkedin.com/in/nawfal-sassat-91b70217b/
 - **GitHub**: github.com/stevemaster478
 - **Location**: Villanova d'Asti, Piemonte, Italy
 

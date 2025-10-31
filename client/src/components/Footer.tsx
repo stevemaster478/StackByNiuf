@@ -19,7 +19,7 @@ export function Footer() {
     },
     {
       label: "LinkedIn",
-      href: "https://linkedin.com/in/nawfal-sassat",
+      href: "https://www.linkedin.com/in/nawfal-sassat-91b70217b/",
       icon: Linkedin,
     },
     {

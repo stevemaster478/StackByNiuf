@@ -74,8 +74,8 @@ export function Contact() {
     {
       icon: Linkedin,
       label: "LinkedIn",
-      value: "linkedin.com/in/nawfal-sassat",
-      href: "https://linkedin.com/in/nawfal-sassat",
+      value: "linkedin.com/in/nawfal-sassat-91b70217b/in/nawfal-sassat",
+      href: "https://www.linkedin.com/in/nawfal-sassat-91b70217b/",
     },
     {
       icon: Github,
