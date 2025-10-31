@@ -32,7 +32,7 @@ To build a digital portfolio that reflects my development philosophy — **clean
 ## 📬 Contact
 
 - **Email:** [stevemaster478@gmail.com](mailto:stevemaster478@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/nawfal-sassat](https://linkedin.com/in/nawfal-sassat)  
+- **LinkedIn:** [linkedin.com/in/nawfal-sassat](https://linkedin.com/in/nawfal-sassat-91b70217b/)  
 - **GitHub:** [github.com/stevemaster478](https://github.com/stevemaster478)
 
 ---
