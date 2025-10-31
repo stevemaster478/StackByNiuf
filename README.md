@@ -13,7 +13,7 @@ Designed with scalability and aesthetics in mind, **StackByNiuf** blends **techn
 - **Frontend:** React + Vite + Tailwind CSS + Framer Motion  
 - **Backend:** Node.js + Express + Nodemailer  
 - **Database:** MongoDB (for dynamic data such as projects & contact forms)  
-- **Deployment:** Railway / Render (Free Plan compatible)
+- **Deployment:** Vercel (with serverless functions for API)
 
 ---
 
@@ -34,6 +34,32 @@ To build a digital portfolio that reflects my development philosophy — **clean
 - **Email:** [stevemaster478@gmail.com](mailto:stevemaster478@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/nawfal-sassat](https://linkedin.com/in/nawfal-sassat-91b70217b/)  
 - **GitHub:** [github.com/stevemaster478](https://github.com/stevemaster478)
+
+---
+
+---
+
+## 🚀 Deployment
+
+Questo progetto è deployabile su **Vercel** con supporto per serverless functions.
+
+Per le istruzioni complete di deployment e configurazione SMTP, consulta **[VERCEL_DEPLOY.md](./VERCEL_DEPLOY.md)**.
+
+### Quick Start:
+
+1. **Deploy su Vercel**:
+   - Importa il repository su [vercel.com](https://vercel.com)
+   - Vercel rileverà automaticamente la configurazione
+
+2. **Configura le variabili d'ambiente** (per le email):
+   ```
+   SMTP_HOST=smtp.gmail.com
+   SMTP_PORT=587
+   SMTP_USER=your-email@gmail.com
+   SMTP_PASS=your-app-password
+   ```
+
+3. **Redeploy** dopo aver aggiunto le variabili d'ambiente
 
 ---
 
