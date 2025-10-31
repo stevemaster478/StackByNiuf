@@ -1,0 +1,82 @@
+📘 Estratti per il Portfolio
+
+Nome completo: Nawfal Sassat
+Ruolo: Web Developer / Full Stack Developer
+Età: 23 anni
+Località: Villanova d’Asti (Piemonte, Italia)
+Email: stevemaster478@gmail.com
+
+LinkedIn: linkedin.com/in/nawfal-sassat
+
+GitHub: github.com/stevemaster478
+
+🧠 Profilo Professionale
+
+Web Developer orientato all’eccellenza tecnica, focalizzato su soluzioni digitali performanti e scalabili.
+Approccio innovation-driven, con attenzione alla sicurezza, scalabilità e user experience.
+Leadership collaborativa, lavoro in team Agile, attenzione al continuous improvement.
+
+💻 Competenze Tecniche
+
+Linguaggi: Java, JavaScript, Kotlin, SQL, HTML, CSS, PHP
+
+Framework & Librerie: React.js, Redux, Angular, Spring Boot, Node.js, Express.js
+
+Database: MongoDB, MySQL, MariaDB
+
+DevOps & Tools: Docker, Kubernetes, Git, Maven, pnpm, Vite, Tailwind CSS, Auth0, JWT
+
+Sistemi operativi: Windows, Linux, macOS
+
+🧩 Esperienza
+
+Full Stack Developer (Stage) — AGM Solutions, Torino (Feb–Lug 2023)
+
+Sviluppo progetti enterprise eCommerce e Delivery con Angular + Spring Boot
+
+Implementazione sicurezza con Auth0, JWT, Spring Security
+
+Coordinamento tecnico di team remoti
+
+Ottimizzazione con Vite, Tailwind, pnpm
+
+🚀 Progetti Personali
+
+Task Management SPA – React + Redux + LocalStorage
+
+SnapNotes (Google Keep Clone) – React + Express + MongoDB + Auth0
+
+Refactoring Progetto di Maturità – Rebuild con stack moderno MERN
+
+🎓 Formazione
+
+Diploma ITIS G.B. Pininfarina, Moncalieri (TO) — 2022
+Indirizzo informatico con focus su progetti innovativi e applicazioni pratiche.
+
+🌍 Lingue
+
+Italiano (Madrelingua), Inglese (B2–C1), Arabo (Base)
+
+🧠 QUERY PER REPLIT
+
+Puoi usare questa query direttamente su Replit
+ → “Create Repl” → “AI Project” → “Generate from prompt”.
+
+🔧 Prompt da incollare su Replit
+Create a modern and minimal personal portfolio website for a Full Stack Web Developer named "Nawfal Sassat" using the MERN stack (MongoDB, Express.js, React, Node.js).
+
+Requirements:
+- Clean and modern design with primary color #0D47A1 (blue) and secondary color #FFFFFF (white).
+- Responsive layout using Tailwind CSS and Vite for frontend build.
+- Sections: 
+  1. Hero (name, title, links to GitHub & LinkedIn)
+  2. About Me (from professional profile)
+  3. Skills (grouped by categories: languages, frameworks, databases, devops)
+  4. Experience (AGM Solutions stage)
+  5. Projects (Task Management SPA, SnapNotes, Refactoring Project)
+  6. Contact (email form with nodemailer backend)
+- Use React Router for navigation.
+- Include a dark mode toggle.
+- Deploy-ready configuration for Railway, Render, or Vercel (choose the simplest free one).
+- Use a professional font (Inter or Poppins).
+- Minimal animations with Framer Motion.
